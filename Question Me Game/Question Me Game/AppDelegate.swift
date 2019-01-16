@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Trivia Game
+//  Question Me Game
 //
 //  Created by Simon Mc Neil on 2019-01-15.
 //  Copyright © 2019 Simon Mc Neil. All rights reserved.
