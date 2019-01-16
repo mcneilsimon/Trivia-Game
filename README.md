@@ -1,5 +1,5 @@
 An app that taught me how to use the concepts below. This game doesn't make sense score wise, as it doesn't check when you select true or 
-false if you are correct.The sole purpose of this application was just to learn the techniques mentioned below.
+false if you are correct. The sole purpose of this application was just to learn the techniques mentioned beneath.
 
 - Design your app's UI (user interface) using the Storyboard
 - IBOutlet and IBAction
